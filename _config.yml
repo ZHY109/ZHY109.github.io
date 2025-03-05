@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Alan Cheng"
+  avatar           : "avatar.png"
   pronouns         : "he/his"  
   bio              : "Make AI empower humans"
   location         : "Hong Kong"
