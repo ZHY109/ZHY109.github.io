@@ -1,14 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "SpikeGoogle: Spiking Neural Networks with GoogLeNet‐like inception module"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'Spiking Neural Network is known as the third-generation artificial neral network whose development has great potential. With the help of Spike Layer Error Reassignment in Time for error back-propagation, this work presents a new network called SpikeGoogle, which is implemented with GoogLeNet-like inception module. In this inception module, different convolution kernels and max-pooling layer are included to capture deep features across diverse scales. Experiment results on small NMNIST dataset verify the results of the authors’ proposed SpikeGoogle, which outperforms the previous Spiking Convolutional Neural Network method by a large margin..'
+date: 2022-5-08
+paperurl: 'https://www.researchgate.net/publication/359744999_SpikeGoogle_Spiking_Neural_Networks_with_GoogLeNet-like_inception_module'
+citation: 'Wang, X., et al.: SpikeGoogle: Spiking Neural Networks with GoogLeNet-like inception module. CAAI Trans. Intell. Technol. 7(3), 492–502 (2022). https://doi.org/10.1049/cit2.12082'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
