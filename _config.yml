@@ -37,7 +37,7 @@ author:
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Hoiyuen-Cheng?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoiX2RpcmVjdCJ9fQ"
+  researchgate     : "https://www.researchgate.net/profile/Hoiyuen-Cheng"
   scopus           : # URL
 
   # Repositories and software development
