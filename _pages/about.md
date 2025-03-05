@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm Alan Cheng, a master student from [The University of Hong Kong (HKU) where in QS rank 17](https://www.hku.hk/), studing mechnical engineering this year. It is my pleasure to join the [ArcLab](https://arclab.hku.hk/) which is leading by professor [Peng Lu](https://repository.hku.hk/cris/rp/rp02743) and to study the dissertation project:Exploration of Unknown Environments with Embedded Semantic Information.
+I'm Alan Cheng, a master student from [The University of Hong Kong (HKU) which univeristy rank 17 in QS2025](https://www.hku.hk/), studing Mechnical Engineering this year. My research interest includes deep learning (computer vision, LLM and reinforcemnet learning), and robotics (path planing and posistioning). 
+
+I am very fortunate to be advised by [Prof. Peng Lu](https://repository.hku.hk/cris/rp/rp02743) of [ArcLab](https://arclab.hku.hk/), and to study the dissertation project: Exploration of Unknown Environments with Embedded Semantic Information for UAV.
+
+You can find my CV here: [Alan's Curriculum Vitae](../assets/CV.pdf)
 
 A data-driven personal website
 ======
