@@ -6,12 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I'm Alan Cheng, a master's student at [The University of Hong Kong (HKU)](https://www.hku.hk/), which is ranked 17th in the ​QS 2025 World University Rankings, studying ​Mechanical Engineering. My research interests include deep learning (computer vision, LLMs, and reinforcement learning) and robotics (path planning and positioning).
 
-I'm Alan Cheng, a master student from [The University of Hong Kong (HKU) which univeristy rank 17 in QS2025](https://www.hku.hk/), studing Mechnical Engineering this year. My research interest includes deep learning (computer vision, LLM and reinforcemnet learning), and robotics (path planing and posistioning). 
+I am honored to be supervised by [Prof. Peng Lu](https://repository.hku.hk/cris/rp/rp02743) at [ArcLab](https://arclab.hku.hk/), where I am conducting my dissertation project: ​**"Exploration of Unknown Environments with Embedded Semantic Information for UAVs"**.
 
-I am very fortunate to be advised by [Prof. Peng Lu](https://repository.hku.hk/cris/rp/rp02743) of [ArcLab](https://arclab.hku.hk/), and to study the dissertation project: Exploration of Unknown Environments with Embedded Semantic Information for UAV.
-
-You can find my CV here: [Alan's Curriculum Vitae](../assets/CV.pdf)
+You can find my CV here:  [Alan's Curriculum Vitae](../assets/CV.pdf).
 
 A data-driven personal website
 ======
