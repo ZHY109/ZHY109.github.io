@@ -1,5 +1,5 @@
 ---
-title: Enhancing Autonomous Valet Parking with Multi-Stage Training and Field Reward"
+title: Enhancing Autonomous Valet Parking with Multi-Stage Training and Field Reward
 collection: publications
 category: manuscripts
 permalink: /publication/2022-05-08-paper-title-number-1
