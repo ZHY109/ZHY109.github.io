@@ -7,7 +7,7 @@ excerpt: 'This paper introduces PMT-F, a novel algorithm combining the Hybrid A*
 date: 2025-09-08
 venue: 'Scientific Report'
 paperurl: 'Under peer-review'
-citation: 'Chunchit Siu, Hoiyuen Cheng, Enhancing Autonomous Valet Parking with Multi-Stage Training and Field Reward, Scientific Report'
+citation: 'Chunchit Siu, Hoiyuen Cheng, et al.: Enhancing Autonomous Valet Parking with Multi-Stage Training and Field Reward, Scientific Report'
 ---
 
 This paper presents an integrated framework for autonomous valet parking systems, combining trajectory optimization, reinforcement learning (RL), and traditional path planning. The proposed Preparation and Multi-stage Training with Field Reward (PMT-F) algorithm enhances parking efficiency and robustness in dynamic environments. By integrating the Hybrid A* algorithm with RL and a novel Field Reward function, the PMT-F algorithm improves trajectory optimization and learning convergence. Our results show significant performance improvements in key metrics, establishing a robust foundation for efficient and reliable autonomous valet parking systems.
