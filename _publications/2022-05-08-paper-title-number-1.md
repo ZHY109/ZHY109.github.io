@@ -13,4 +13,4 @@ This paper presents an integrated framework for autonomous valet parking systems
 
 The PMT-F algorithm achieves superior performance in both vertical and parallel parking scenarios, with success rates of **100%** and **91.4%**, respectively. Its multi-stage training approach and Field Reward function enable effective adaptation to complex environments, outperforming traditional RL methods. This integrated framework demonstrates the potential to revolutionize urban transportation by enhancing parking efficiency and safety.
 
-Paper is under peer-review.
+Paper will be released soon.
