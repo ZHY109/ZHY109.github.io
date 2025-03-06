@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: ' Integrated Inception modules into spiking neural networks using Pytorch, achieving a 20.5% increase in image classification accuracy.'
 date: 2022-05-08
-venue: 'Journal 1'
+venue: 'CAAI Trans. Intell. Technol'
 paperurl: 'https://www.researchgate.net/publication/359744999_SpikeGoogle_Spiking_Neural_Networks_with_GoogLeNet-like_inception_module'
 citation: 'Wang, X., et al.: SpikeGoogle: Spiking Neural Networks with GoogLeNet-like inception module. CAAI Trans. Intell. Technol. 7(3), 492–502 (2022). https://doi.org/10.1049/cit2.12082'
 ---
