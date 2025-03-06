@@ -3,7 +3,7 @@ title: "SpikeGoogle: Spiking Neural Networks with GoogLeNet‐like inception mod
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: ' Integrated Inception modules into spiking neural networks using Pytorch, achieving a 20.5% increase in image classification accuracy.'
 date: 2022-05-08
 venue: 'Journal 1'
 paperurl: 'https://www.researchgate.net/publication/359744999_SpikeGoogle_Spiking_Neural_Networks_with_GoogLeNet-like_inception_module'
