@@ -12,7 +12,7 @@ This is a description of a teaching experience. You can use markdown like any ot
 
 Heading 1
 ======
-
+![Sunset](/images/avatar.png "Beautiful Sunset")
 Heading 2
 ======
 
