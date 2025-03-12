@@ -3,7 +3,7 @@ title: "SpikeGoogle: Spiking Neural Networks with GoogLeNet‐like inception mod
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: ' Integrated Inception modules into spiking neural networks using Pytorch, achieving a 20.5% increase in image classification accuracy.'
+excerpt: 'SpikeGoogle is an SNN with GoogLeNet-like Inception modules that improves feature extraction for event-based vision. It achieves 85% accuracy on NMNIST, outperforming previous SNNs by 15%, while addressing scalability and training challenges. This architecture combines CNN efficiency with SNN energy savings, advancing neuromorphic systems for low-power applications.'
 date: 2022-05-08
 venue: 'CAAI Trans. Intell. Technol'
 paperurl: 'https://www.researchgate.net/publication/359744999_SpikeGoogle_Spiking_Neural_Networks_with_GoogLeNet-like_inception_module'
