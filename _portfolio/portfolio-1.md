@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "LLM Trainning"
+excerpt: "Train(pretrain, SFT, RLHF and R1-zeor) a LLM<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Here is the Link of this [LLM Training experiment record](https://blog.csdn.net/ChengEarth/article/details/146292770?fromshare=blogdetail&sharetype=blogdetail&sharerId=146292770&sharerefer=PC&sharesource=ChengEarth&sharefrom=from_link) 
