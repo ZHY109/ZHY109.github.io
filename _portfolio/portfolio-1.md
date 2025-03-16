@@ -1,6 +1,6 @@
 ---
 title: "LLM Trainning"
-excerpt: "Train(pretrain, SFT, RLHF and R1-zeor) a LLM<br/><img src='/images/500x300.png'>"
+excerpt: "Train(pretrain, SFT, RLHF and R1-zeor) a LLM<br/><img src='/images/minimind.png'>"
 collection: portfolio
 ---
 
